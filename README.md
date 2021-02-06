@@ -10,7 +10,7 @@ This version is explanded to hold two syringes instead of one. It can be used wi
 - Lasercut parts
 - 3D printed parts
 - leadscrew (use a leadscrew with a smaller pitch for more torque on the syringes)
-- ledscrew nut (that works with your leadscrew)
+- leadscrew nut (that works with your leadscrew)
 - nema17 (with gear reduction)
 - motor coupler (5mm to 8mm)
 - some m3 nuts and bolts.
